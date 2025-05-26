@@ -1,7 +1,7 @@
 
 ---
 
-# 🕹️ Furna's Adventure Guide Overview
+# 🕹️ Furina's Adventure Guide Overview
 
 ## 🎮 Player Controls
 
